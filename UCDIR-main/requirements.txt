@@ -1,0 +1,8 @@
+PIL
+numpy
+faiss
+torchvision
+torch
+sklearn
+tqdm
+faiss-gpu
